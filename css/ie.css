@@ -1,0 +1,14 @@
+
+.bd-ra, .owl-prev, .owl-next { behavior:url(js/PIE.htc); position:relative;}
+h2:after {display: none !important;}
+.btn-2:after {display: none;}
+#contact-form input {
+	width: 98%;
+}
+.index .block-4_element p:after { 
+	margin-left: 70px;
+	margin-top: 20px;
+	display: block;
+}
+#contact-form textarea {width: 98%;}
+.index .block-3 .owl-carousel .item div {background: rgb(117, 126, 106)}
